@@ -10,4 +10,4 @@ def f(x):
         return f(x-1) - f(x-2)
 
 total_calls = f(20)
-print("Numero totale di chiamate:",c)
+print("Numero totale di chiamate:" ,c)
